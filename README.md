@@ -1,0 +1,2 @@
+# cloudConfig
+test springcloud configserver
